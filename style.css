@@ -75,3 +75,69 @@ font-size: 20px;
 {
   color:white;
 }
+.food
+{
+  display: flex;
+  margin-top:25px;
+  margin-bottom: 5%;
+}
+.recipie h2
+{
+  text-align:center;
+  font-size: 35px;
+  font-family: 'Poppins', sans-serif ;
+}
+
+.recipie h5
+{
+  font-size: 18px;
+  font-weight: 500;
+  margin:0px 20%;
+  text-align:center;
+  font-family: 'Poppins', sans-serif ;
+}
+.one-third
+{
+  width:25%;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 10px 10px 20px gray;
+  margin: 0 50px;
+  padding: 10px;
+  border-radius: 10px;
+
+}
+.one-third img
+{
+  width:100%;
+
+}
+.member
+{
+  display: flex;
+  margin:0 10%;
+  color:white;
+  box-shadow: 10px 10px 20px gray;
+
+}
+.one-third-new
+{
+  color:black;
+  margin-left: 10%;
+  width:30%;
+  
+}
+.one-third-new h2 {
+  
+  font-weight: 700;
+  margin:0;
+  padding-top: 20px;
+  
+}
+.one-third-new p {
+  
+ 
+  margin:0;
+  padding-bottom: 20px;
+  
+}
+
