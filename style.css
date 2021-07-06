@@ -86,6 +86,7 @@ font-size: 20px;
   text-align:center;
   font-size: 35px;
   font-family: 'Poppins', sans-serif ;
+  color:rgb(95, 95, 95);
 }
 
 .recipie h5
@@ -100,7 +101,7 @@ font-size: 20px;
 {
   width:25%;
   background-color: rgb(255, 255, 255);
-  box-shadow: 10px 10px 20px gray;
+  box-shadow: 10px 10px 20px rgb(212, 212, 212);
   margin: 0 50px;
   padding: 10px;
   border-radius: 10px;
@@ -111,12 +112,18 @@ font-size: 20px;
   width:100%;
 
 }
+.see-more
+{
+  text-decoration: none;
+  color:rgb(0, 255, 55);
+  font-weight: 600;
+}
 .member
 {
   display: flex;
-  margin:0 10%;
+  margin:40px 10%;
   color:white;
-  box-shadow: 10px 10px 20px gray;
+  box-shadow: 10px 10px 15px rgb(212, 212, 212);
 
 }
 .one-third-new
@@ -137,7 +144,42 @@ font-size: 20px;
   
  
   margin:0;
-  padding-bottom: 20px;
+  padding-bottom: 109px;
   
+}
+.loc
+{
+  display: flex;
+  background-color: white;
+  
+  margin: 0px 10%;
+}
+.loc h3 
+{
+  color:black;
+  font-size:25px;
+  margin-left:10%;
+  
+}
+.loc p
+{
+  font-size: 20px;
+}
+.footer
+{
+  background-color: black;
+  height:230px;
+}
+.footer h3{
+  color:white;
+  letter-spacing: 2px;
+  text-align: center;
+  padding:20px;
+  font-size: 25px;
+}
+.footer p{
+  text-align: center;
+  color:white;
+  font-size:16px;
 }
 
