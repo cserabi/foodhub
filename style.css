@@ -1,0 +1,18 @@
+body{
+  margin: 0px;
+}
+.hero
+{
+  display: flex;
+}
+.half-width
+{
+  width: 50%;
+}
+.half-width span{
+  color:19ff00;
+}
+.half-width h2
+{
+  font-family: 'Otomanopee One', sans-serif;
+}
